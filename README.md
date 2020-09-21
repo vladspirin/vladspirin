@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**vladspirin/vladspirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:penguin: I'm GNU/Linux and Python enthusiast with Network Technician/Engineer skills (completed CCNA). :free: Open source evangelist. Fedora Community Contributor.
+  🌱 I'm currently learning Python, QA automation, and manual testing
 
-Here are some ideas to get you started:
+#### Area of interest:
+- Linux and UNIX
+- Python (PyGObject (PyGTK), PyTest, Pandas, Django, Flask)
+- QA
+- DevOps
+- DevNet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: lfc@fedoraproject.org or <a href="https://t.me/vladspirin">Telegram</a>
+
