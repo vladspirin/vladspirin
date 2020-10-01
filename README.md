@@ -6,9 +6,8 @@
 #### Area of interest:
 - Linux and UNIX
 - Python (PyGObject (PyGTK), PyTest, Pandas, Django, Flask)
-- QA
+- Manual QA and QA automation
 - DevOps
-- DevNet
 
 📫 How to reach me: lfc@fedoraproject.org or <a href="https://t.me/vladspirin">Telegram</a>
 
