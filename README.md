@@ -4,10 +4,10 @@
   🌱 I'm currently learning Python, QA automation, and manual testing
 
 #### Area of interest:
-- Manual QA and QA automation
-- Linux and UNIX
-- Python (PyTest, PyGObject (PyGTK), Django, Flask, Pandas)
-- DevOps
+- Manual QA
+- QA automation
+- GNU/Linux/UNIX
+- Python (PyTest, PyGObject, Django, Flask)
 
 📫 How to reach me: lfc@fedoraproject.org or <a href="https://t.me/vladspirin">Telegram</a>
 
