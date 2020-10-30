@@ -7,7 +7,7 @@
 - Manual QA
 - QA automation
 - GNU/Linux/UNIX
-- Python (PyTest, PyGObject, Django, Flask)
+- Python
 
 📫 How to reach me: lfc@fedoraproject.org or <a href="https://t.me/vladspirin">Telegram</a>
 
