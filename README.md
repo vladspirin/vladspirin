@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:penguin: I'm GNU/Linux and Python enthusiast with Network Technician/Engineer skills (completed CCNA). :free: open source software evangelist. Fedora Community Contributor.
+:penguin: I'm GNU/Linux and Python enthusiast with Network Engineer skills (completed CCNA). :free: open source software evangelist. Fedora Community Contributor.
   🌱 I'm currently learning Python, QA automation, and manual testing
 
 #### Area of interest:
