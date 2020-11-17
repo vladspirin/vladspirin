@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-:penguin: I'm GNU/Linux and Python enthusiast with Network Engineer skills (completed CCNA). :free: open source software evangelist. Fedora Community Contributor.
-  🌱 I'm currently learning Python, QA automation, and manual testing
+:penguin: I'm a GNU/Linux enthusiast with Network Engineer skills (completed Cisco CCNA). Fedora Community Contributor. Quality Control Engineer (Intern) at SoftServe.
+
 
 #### Area of interest:
 - Manual QA
