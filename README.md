@@ -11,5 +11,8 @@ Quality Control Engineer (Intern) at SoftServe.
 - GNU/Linux/UNIX
 - Python
 
+#### Project:
+<a href="https://github.com/EventsExpress-SoftServe/EventsExpress">EventsExpress</a>
+
 📫 How to reach me: lfc@fedoraproject.org or <a href="https://t.me/vladspirin">Telegram</a>
 
