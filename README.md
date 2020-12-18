@@ -7,7 +7,7 @@ Fedora Community Contributor.
 
 
 #### Area of interest:
-- Manual QA
+- Manual QA/Quality Control
 - QA automation
 - GNU/Linux/UNIX
 - Python
