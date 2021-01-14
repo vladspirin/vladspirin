@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a Quality Control Engineer (Intern) at SoftServe.  
-:penguin: GNU/Linux enthusiast with Network Engineer skills(CCNA).  
+I'm a Quality Control Engineer.  
+:penguin: GNU/Linux enthusiast.  
 Fedora Community Contributor.  
 
 
