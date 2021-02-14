@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Quality Control Engineer.  
+I'm a QA/QC Engineer.  
 :penguin: GNU/Linux enthusiast.  
 Fedora Community Contributor.  
 
