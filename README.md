@@ -17,12 +17,13 @@ I'm a QA/QC Engineer and GNU/Linux enthusiast. I like Python as a programming la
 
 
 #### Project:
-![GitHub Repo stars](https://img.shields.io/github/stars/ita-social-projects/EventsExpress?label=EventsExpress&style=social)
+[![Telegram Badge](https://img.shields.io/badge/-EventsExpress-d1cfcb?style=flat-square&labelColor=4f4e4c&logo=github&logoColor=white&link=https://github.com/ita-social-projects/EventsExpress)](https://github.com/ita-social-projects/EventsExpress)
+![GitHub User's stars](https://img.shields.io/github/stars/ita-social-projects/EventsExpress?affiliations=vladspirin&style=flat-square&link=https://github.com/ita-social-projects/EventsExpress)
 
 
 
 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)](https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vladspirin)](https://t.me/vladspirin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)](https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vladspirin)](https://t.me/vladspirin)
 
