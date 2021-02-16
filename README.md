@@ -1,7 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vladspirin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-I'm a QA/QC Engineer and GNU/Linux enthusiast. I like Python as a programming language.  
+I'm a QA/QC Engineer and GNU/Linux enthusiast. I like Python as a programming language. 
 
  #### Area of interest:
 - Manual QA/Quality Control
@@ -15,6 +14,9 @@ I'm a QA/QC Engineer and GNU/Linux enthusiast. I like Python as a programming la
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
+
+ #### GitHub Stats:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vladspirin&show_icons=true&theme=graywhite&hide_title=true&hide=stars)
 
 #### Project:
 [![Telegram Badge](https://img.shields.io/badge/-EventsExpress-d1cfcb?style=flat-square&labelColor=4f4e4c&logo=github&logoColor=white&link=https://github.com/ita-social-projects/EventsExpress)](https://github.com/ita-social-projects/EventsExpress)
