@@ -17,7 +17,12 @@ I'm a QA/QC Engineer and GNU/Linux enthusiast. I like Python as a programming la
 
 
 #### Project:
-<a href="https://github.com/EventsExpress-SoftServe/EventsExpress">EventsExpress</a>
+![GitHub Repo stars](https://img.shields.io/github/stars/ita-social-projects/EventsExpress?label=EventsExpress&style=social)
 
-📫 How to reach me: lfc@fedoraproject.org or <a href="https://t.me/vladspirin">Telegram</a>
+
+
+📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)](https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vladspirin)](https://t.me/vladspirin)
 
