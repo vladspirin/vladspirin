@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior QA Engineer and GNU/Linux enthusiast. I like Python as a programming language. 
+I'm a Junior QA Engineer and a GNU/Linux enthusiast. I like Python as a programming language. 
 
  #### Area of interest:
 - QA Manual
@@ -23,9 +23,12 @@ I'm a Junior QA Engineer and GNU/Linux enthusiast. I like Python as a programmin
  #### GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vladspirin&show_icons=true&theme=graywhite&hide_title=true&hide=stars)
 
-#### Project:
-[![Telegram Badge](https://img.shields.io/badge/-EventsExpress-d1cfcb?style=flat-square&labelColor=4f4e4c&logo=github&logoColor=white&link=https://github.com/ita-social-projects/EventsExpress)](https://github.com/ita-social-projects/EventsExpress)
-![GitHub User's stars](https://img.shields.io/github/stars/ita-social-projects/EventsExpress?affiliations=vladspirin&style=flat-square&link=https://github.com/ita-social-projects/EventsExpress)
+#### Previous Project:
+[![EventsExpress](https://img.shields.io/badge/-EventsExpress-d1cfcb?style=flat-square&labelColor=4f4e4c&logo=github&logoColor=white&link=https://github.com/ita-social-projects/EventsExpress)](https://github.com/ita-social-projects/EventsExpress)
+
+#### Current Project:
+
+
 
 
 
