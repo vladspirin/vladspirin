@@ -27,8 +27,7 @@ I'm a Junior QA Engineer and a GNU/Linux enthusiast. I like Python as a programm
 [![EventsExpress](https://img.shields.io/badge/-EventsExpress-d1cfcb?style=flat-square&labelColor=4f4e4c&logo=github&logoColor=white&link=https://github.com/ita-social-projects/EventsExpress)](https://github.com/ita-social-projects/EventsExpress)
 
 #### Current Project:
-
-
+[![Project in Telecommunications](https://img.shields.io/badge/-Telecommunications-d1cfcb?style=flat-square&labelColor=4f4e4c&logoColor=white)]()
 
 
 
