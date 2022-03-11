@@ -34,5 +34,4 @@ I'm a Junior QA Engineer and a GNU/Linux enthusiast. I like Python as a programm
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)](https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vladspirin)](https://t.me/vladspirin)
 
