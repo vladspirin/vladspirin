@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-QA Engineer | Network Engineer | GNU/Linux enthusiast | Fedora user
+Currently, I'm an SW QA Engineer at GL (Telecommunication)
+
+Network Engineer | GNU/Linux enthusiast | Fedora user
 
 Preferable language - Python
 
