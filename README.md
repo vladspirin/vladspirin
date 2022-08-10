@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a Junior QA Engineer and a GNU/Linux enthusiast. I like Python as a programming language. 
+QA Engineer | Network Engineer | GNU/Linux enthusiast | Fedora user
+
+Preferable language - Python
 
  #### Area of interest:
 - QA Manual
