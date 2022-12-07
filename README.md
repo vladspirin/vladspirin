@@ -2,7 +2,7 @@
 
 Currently, I'm an SW QA Engineer at GL (Telecommunication)
 
-Network Engineer | GNU/Linux enthusiast | Fedora user
+Network Engineer | GNU/Linux enthusiast | Fedora Workstation and macOS user 
 
 Preferable language - Python
 
