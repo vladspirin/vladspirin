@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Currently, I'm an SW QA Engineer at GL
-GNU/Linux enthusiast 
-Fedora Workstation and macOS user 
+
+GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user 
 
 Preferable language - Python
 
