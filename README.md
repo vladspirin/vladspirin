@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Currently, I'm an SW QA Engineer at GL
+About me
+
+SW QA Engineer at GL
 
 GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user 
 
