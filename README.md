@@ -6,8 +6,6 @@ SW QA Engineer at GL
 
 GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user 
 
-Preferable language - Python
-
  #### Area of interest:
 - QA Manual
 - QA Automation
