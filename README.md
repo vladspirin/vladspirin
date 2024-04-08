@@ -37,5 +37,5 @@ GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user
 
 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)](https://www.linkedin.com/in/vladyslav-spirin-875b581a1/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vspirin/)](https://www.linkedin.com/in/vspirin/)
 
