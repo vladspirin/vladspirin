@@ -2,7 +2,7 @@
 
 About me
 
-SW QA Engineer at GL
+SW QA Engineer
 
 GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user 
 
