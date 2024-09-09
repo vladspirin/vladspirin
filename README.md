@@ -4,7 +4,7 @@ About me
 
 SW QA Engineer
 
-GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user 
+GNU/Linux enthusiast | Fedora Workstation and macOS user 
 
  #### Area of interest:
 - QA Manual
@@ -28,10 +28,10 @@ GNU/Unix/Linux enthusiast | Fedora Workstation and macOS user
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vladspirin&show_icons=true&theme=graywhite&hide_title=true&hide=stars)
 
 #### Previous Project:
-[![EventsExpress](https://img.shields.io/badge/-EventsExpress-d1cfcb?style=flat-square&labelColor=4f4e4c&logo=github&logoColor=white&link=https://github.com/ita-social-projects/EventsExpress)](https://github.com/ita-social-projects/EventsExpress)
+Harmonic
 
 #### Current Project:
-[![Project in Telecommunications](https://img.shields.io/badge/-Telecommunications-d1cfcb?style=flat-square&labelColor=4f4e4c&logoColor=white)]()
+Dream project
 
 
 
