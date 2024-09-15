@@ -32,7 +32,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 Harmonic
 
 #### Current Project:
-Dream project
+No project, vacation
 
 
 
