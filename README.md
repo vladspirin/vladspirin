@@ -35,7 +35,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 Harmonic
 
 #### Current Project:
-No project, vacation
+No project, Career Break (Health and well-being)
 
 
 
