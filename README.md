@@ -9,6 +9,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
  #### Area of interest:
 - QA Manual
 - QA Automation
+- Python Development
 
 #### Languages and Tools:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
