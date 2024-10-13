@@ -11,7 +11,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 - QA Automation
 - Python Development
 
-### Scope of technologies I worked with
+### Technologies I worked with
 #### Operation systems:
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,redhat,debian,ubuntu,windows&perline=13&theme=light)](#)
 #### Languages and tools:
