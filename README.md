@@ -21,10 +21,6 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 #### Analytical and logging tools:
 [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch&perline=13&theme=light)](#)
 
-#### Python knowledge restoring. In progress...
-[![roadmap.sh](https://roadmap.sh/card/wide/66f01217e80161c4cb1477d6?variant=light)](https://roadmap.sh)
-
-
  #### GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vladspirin&show_icons=true&theme=graywhite&hide_title=true&hide=stars)
 
