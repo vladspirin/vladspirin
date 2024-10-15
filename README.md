@@ -7,9 +7,9 @@ SW QA Engineer
 GNU/Linux enthusiast | Fedora Workstation and macOS user 
 
  #### Area of interest:
-- QA Manual
 - QA Automation
 - Python Development
+- QA Manual
 
 ### Technologies I worked with
 #### Operation systems:
