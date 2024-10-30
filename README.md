@@ -15,7 +15,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 #### Operation systems:
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,redhat,debian,ubuntu,windows&perline=13&theme=light)](#)
 #### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=python,bash,postgresql,sqlite,md,html,vscode,vim,postman,selenium,git,github,bitbucket,kubernetes,docker,nginx,jenkins,grafana,prometheus,elasticsearch&perline=13&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,postgresql,md,html,vscode,vim,postman,selenium,git,github,bitbucket,gitlab,kubernetes,docker,nginx,jenkins&perline=13&theme=light)](#)
 
  #### GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vladspirin&show_icons=true&theme=graywhite&hide_title=true&hide=stars)
