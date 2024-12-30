@@ -24,7 +24,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 Harmonic
 
 #### Current Project:
-No project. I'm studying
+No project. At school.
 
 
 
