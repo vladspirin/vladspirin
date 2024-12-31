@@ -13,12 +13,12 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 
 ### Technologies I worked with
 #### Operation systems: 
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,redhat,debian,ubuntu,windows&perline=3&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,redhat,debian,ubuntu,windows&perline=10&theme=light)](#)
 
 ------------
-#### Languages and automation tools:
+#### Languages and frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,html,css,selenium&perline=13&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,html,css,selenium&perline=10&theme=light)](#)
 
 ------------
 #### CI/CD and DevOps
@@ -38,7 +38,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 ------------
 
 #### IDEs & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,pycharm,git,github,bitbucket,gitlab,md,notion&perline=5&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,pycharm,git,github,bitbucket,gitlab,md,notion&perline=13&theme=light)](#)
 
 
 ------------
