@@ -38,7 +38,8 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 ------------
 
 #### IDEs & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,git,github,bitbucket,gitlab,md,notion&perline=5&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,pycharm,git,github,bitbucket,gitlab,md,notion&perline=5&theme=light)](#)
+
 
 ------------
 <details>
