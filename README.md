@@ -18,7 +18,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 ------------
 #### Languages and frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,html,css,selenium&perline=10&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,bash,html,css,selenium,md&perline=10&theme=light)](#)
 
 ------------
 #### CI/CD and DevOps
@@ -38,7 +38,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 ------------
 
 #### IDEs & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,pycharm,git,github,bitbucket,gitlab,md,notion&perline=13&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,pycharm,git,github,bitbucket,gitlab,notion&perline=13&theme=light)](#)
 
 
 ------------
