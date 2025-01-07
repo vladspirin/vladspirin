@@ -63,6 +63,6 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
 
 📫 How to reach me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,github,&perline=3&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,instagram,github,&perline=6&theme=light)](#)
 
 
