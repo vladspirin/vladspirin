@@ -46,7 +46,7 @@ GNU/Linux enthusiast | Fedora Workstation and macOS user
   <summary>⚙️ Projects</summary>
   <ul>
     <li>Last project: Harmonic</li>
-    <li>Current project: No project. At school</li>
+    <li>Current project: under NDA </li>
   </ul>
 </details>
 
